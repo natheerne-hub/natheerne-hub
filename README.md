@@ -1,140 +1,122 @@
 # 🩺 Dr. Natheer Soliman
 
-### MD | Healthcare Data Analyst | Medical AI & Clinical Data
+### Medical Doctor | Healthcare Data Analyst | Clinical Data & AI
 
-I am a Medical Doctor building expertise at the intersection of **Medicine, Healthcare Data, and Artificial Intelligence**.
+I am a **Medical Doctor** building a career at the intersection of **Medicine, Healthcare Data, and Artificial Intelligence**.
 
-I use my clinical background together with **Python, SQL, data analysis, visualization, and machine learning** to explore healthcare datasets and transform medical data into meaningful insights.
+I combine clinical knowledge with **Python, SQL, data analysis, visualization, and machine learning** to turn healthcare data into clear, reproducible, and clinically meaningful insights.
 
-My goal is to build practical, reproducible healthcare analytics projects that connect **clinical knowledge with data-driven decision making**.
-
----
-
-## 🧑‍⚕️ About Me
-
-* 🩺 Medical Doctor
-* 📊 Healthcare Data Analytics
-* 🐍 Python for Medical Data Analysis
-* 🗄️ SQL & Data Querying
-* 📈 Data Visualization & Exploratory Data Analysis
-* 🤖 Machine Learning for Healthcare
-* 🏥 Clinical & Hospital Data
-* 🔬 Interested in Clinical Research & Medical AI
+> **Medicine × Data × AI** — understanding clinical problems, analyzing the data, and building practical solutions.
 
 ---
 
-## 🛠️ Skills & Tools
+## 👨‍⚕️ About Me
 
-### 📊 Data Analysis
+- 🩺 Medical Doctor
+- 📊 Focused on Healthcare & Clinical Data Analytics
+- 🐍 Python for healthcare data analysis
+- 🗄️ SQL for data querying and analysis
+- 📈 Data visualization & exploratory data analysis
+- 🤖 Machine learning for healthcare applications
+- 🏥 Interested in hospital and clinical datasets
+- 🔬 Interested in clinical research, healthcare BI, and Medical AI
 
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Jupyter`
+---
 
-### 🗄️ Databases
+## 🛠️ Skills
 
-`SQL`
+**Data Analysis:** `Python` `Pandas` `NumPy` `Jupyter` `Google Colab`
 
-### 📈 Visualization
+**Visualization:** `Power BI` `Matplotlib` `Seaborn` `Excel`
 
-`Power BI` · `Excel` · `Matplotlib`
+**Databases:** `SQL`
 
-### 🤖 Machine Learning
+**Machine Learning:** `Scikit-learn` `Classification` `Predictive Modeling` `Model Evaluation`
 
-`Scikit-learn` · `Classification` · `Predictive Modeling` · `Model Evaluation`
+**Healthcare:** `Clinical Data` `Healthcare Analytics` `Clinical Research` `Medical AI`
 
-### 🏥 Healthcare
-
-`Medical Data` · `Clinical Data` · `Healthcare Analytics` · `Clinical Research`
-
-### 💻 Tools
-
-`Git` · `GitHub` · `Google Colab`
+**Version Control:** `Git` `GitHub`
 
 ---
 
 # 🚀 Featured Healthcare Projects
 
-## 🩸 Medical Data for Diabetes
+### 🫀 Heart Disease — Exploratory Data Analysis
 
-Exploratory analysis of diabetes-related medical data, focusing on understanding patient characteristics, identifying patterns, and extracting clinically meaningful insights.
+Clinical exploratory analysis focused on cardiovascular risk patterns, relationships between patient characteristics, and clinically meaningful data insights.
 
-**Focus:** Data Cleaning · EDA · Medical Data Analysis · Visualization
+**Focus:** `EDA` · `Data Cleaning` · `Visualization` · `Clinical Interpretation`
 
-🔗 [View Repository](https://github.com/natheerne-hub/medical-data-for-diabetes)
+🔗 [View Project](https://github.com/natheerne-hub/Heart-Disease-Exploratory-Data-Analysis)
 
----
+### 🧠 Stroke Prediction Model
 
-## 🧠 Stroke Prediction Model
+A healthcare machine-learning project for stroke-risk prediction using preprocessing, feature scaling, class-imbalance handling, and classification modeling.
 
-A machine learning project exploring patient-level risk factors associated with stroke and developing a predictive classification model.
+**Focus:** `Python` · `Scikit-learn` · `SMOTE` · `Gradient Boosting` · `Model Evaluation`
 
-**Focus:** Data Preprocessing · Feature Analysis · Classification · Model Evaluation
+🔗 [View Project](https://github.com/natheerne-hub/stroke-prediction-model)
 
-🔗 [View Repository](https://github.com/natheerne-hub/stroke-prediction-model)
+### 🩸 Medical Data for Diabetes
 
----
+Exploratory analysis and preprocessing of diabetes-related clinical data, including detection of medically implausible zero values, missing-data handling, and outlier analysis.
 
-## ❤️ Heart Disease — Exploratory Data Analysis
+**Focus:** `Data Cleaning` · `EDA` · `Missing Data` · `Medical Data Analysis`
 
-An exploratory analysis of cardiovascular health data designed to identify patterns and relationships between patient characteristics and heart disease.
+🔗 [View Project](https://github.com/natheerne-hub/medical-data-for-diabetes)
 
-**Focus:** EDA · Statistical Analysis · Data Visualization · Clinical Interpretation
+### 🏥 Hospital Readmissions Analysis
 
-🔗 [View Repository](https://github.com/natheerne-hub/Heart-Disease-Exploratory-Data-Analysis)
+A healthcare analytics project focused on hospital readmission data, healthcare quality measures, and identifying patterns that can support data-driven clinical and operational decisions.
 
----
+**Focus:** `Healthcare Analytics` · `Hospital Data` · `Quality Metrics` · `Clinical Insights`
 
-# 📚 Currently Learning
-
-* Advanced SQL
-* Healthcare Analytics
-* Power BI
-* Python for Healthcare Data
-* Statistical Analysis
-* Machine Learning
-* Clinical Data Science
-* Medical AI
-* Healthcare Business Intelligence
+🚧 **In progress**
 
 ---
 
-# 🎯 Career Direction
+## 📚 Current Focus
 
-I am building a professional career around:
-
-### Medicine 🩺 + Data 📊 + AI 🤖
-
-I am particularly interested in:
-
-* Healthcare Data Analysis
-* Clinical Data Analysis
-* Healthcare Business Intelligence
-* Clinical Research Data
-* Medical AI
-* Predictive Analytics
-* Healthcare Dashboards
+- Advanced SQL for healthcare datasets
+- Power BI healthcare dashboards
+- Healthcare Business Intelligence
+- Statistical analysis
+- Clinical data analysis
+- Machine learning & predictive analytics
+- Medical AI
+- Reproducible healthcare analytics workflows
 
 ---
 
-# 🌐 Portfolio
+## 🎯 Career Direction
 
-Explore my healthcare analytics projects and professional development:
+I am building a professional path toward roles such as:
 
-🔗 **[Visit My Portfolio](https://natheersoliman.github.io)**
+- **Healthcare Data Analyst**
+- **Clinical Data Analyst**
+- **Healthcare BI Analyst**
+- **Clinical Research Data Analyst**
+- **Healthcare Data Scientist**
+
+My long-term goal is to use my medical background and data skills to solve real healthcare problems and communicate data-driven insights clearly to clinical and business teams.
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Portfolio
 
-📧 **Email:** `natheer.ne@gmail.com`
+🔗 **[Visit my portfolio](https://natheersoliman.github.io)**
 
-🌐 **Portfolio:** [natheersoliman.github.io](https://natheersoliman.github.io)
+---
+
+## 📫 Contact
+
+📧 **Email:** natheer.ne@gmail.com
 
 ---
 
 ## 🩺 Medicine × 📊 Data × 🤖 AI
 
-> **Understanding healthcare problems.**
-> **Analyzing the data.**
-> **Building better solutions.**
-
-Thanks for visiting my profile!
+> **Understand the clinical problem.**  
+> **Analyze the data.**  
+> **Communicate the insight.**  
+> **Build a better healthcare solution.**
