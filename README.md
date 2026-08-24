@@ -68,15 +68,17 @@ My goal is to use my medical background and data skills to solve real healthcare
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Portfolio & Professional Profiles
 
-🔗 **[Visit my Healthcare Data Portfolio](https://natheerne-hub.github.io/natheersoliman.github.io/)**
+🔗 **[Healthcare Data Portfolio](https://natheerne-hub.github.io/natheersoliman.github.io/)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/nather-suliaman-64866342a/)**
 
 ---
 
 ## 📫 Contact
 
-📧 **natheer.ne@gmail.com**
+📧 **natheer.ne@gmail.com**  
+💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/nather-suliaman-64866342a/)**
 
 ---
 
