@@ -1,89 +1,77 @@
-# 🩺 Dr. Natheer Soliman, MD
+# Dr. Natheer Soliman, MD
 
-### Medical Doctor | Healthcare Data Analyst | Clinical Data & AI
+### Medical Doctor developing expertise in Healthcare Data Analytics, Clinical Data Analytics, Health Informatics, and Medical AI
 
-I combine clinical knowledge with **Python, SQL, Power BI, data visualization, statistics, and machine learning** to turn healthcare data into reproducible and clinically meaningful insights.
+I combine clinical knowledge with Python, SQL, Power BI, statistics, and machine learning to explore healthcare data, build reproducible analyses, and communicate findings responsibly.
 
-> **Medicine × Data × AI** — understand the clinical problem, analyze the data, communicate the insight.
+> **Medicine × Data × AI** — define the clinical question, verify the data, analyze transparently, and communicate the limitations.
 
----
+## Focus Areas
 
-## 👨‍⚕️ About Me
+- Healthcare and Clinical Data Analytics
+- Hospital Quality and Readmission Analytics
+- Health Informatics, FHIR, HL7, and interoperability
+- Public Health Data
+- Clinical Prediction Models and responsible Medical AI
 
-- 🩺 Medical Doctor and Medical Intern at Tripoli University Hospital
-- 📊 Focused on Healthcare & Clinical Data Analytics
-- 🐍 Python for healthcare data analysis
-- 🗄️ SQL for data querying and analysis
-- 📈 Power BI, Matplotlib, Seaborn, and Excel for visualization
-- 🤖 Machine learning for healthcare applications
-- 🏥 Interested in hospital quality, clinical research, healthcare BI, and Medical AI
-- 🌍 Open to healthcare analytics opportunities and international collaboration
+## Technical Toolkit
 
----
+**Analysis:** Python · Pandas · NumPy · SQL · Jupyter · Google Colab  
+**Visualization:** Power BI · Matplotlib · Seaborn · Excel  
+**Statistics:** Exploratory analysis · Hypothesis testing · Effect sizes · Multiple-testing correction  
+**Machine Learning:** Scikit-learn · Classification · Model evaluation · Reproducible pipelines  
+**Healthcare Data:** Clinical data · Quality metrics · FHIR · HL7 v2 · ICD-10-CM · LOINC · UCUM  
+**Engineering:** Git · GitHub · GitHub Actions
 
-## 🛠️ Core Skills
+## Featured Healthcare Projects
 
-**Data Analysis:** `Python` · `Pandas` · `NumPy` · `Jupyter` · `Google Colab`  
-**Visualization:** `Power BI` · `Matplotlib` · `Seaborn` · `Excel`  
-**Databases:** `SQL`  
-**Statistics:** `Exploratory Analysis` · `Hypothesis Testing` · `Effect Size`  
-**Machine Learning:** `Scikit-learn` · `Classification` · `Predictive Modeling` · `Model Evaluation`  
-**Healthcare:** `Clinical Data` · `Healthcare Analytics` · `Clinical Research` · `Medical AI`  
-**Version Control:** `Git` · `GitHub`
+### [Readmission Intelligence](https://github.com/natheerne-hub/Hospital-Readmissions-Healthcare-Analytics)
 
----
+Hospital-level analytics using CMS HRRP FY 2026 data, kept explicitly separate from patient-level predictive research using the UCI Diabetes 130-US Hospitals dataset.
 
-# 🚀 Featured Healthcare Projects
+**Highlights:** 18,330 hospital-condition records · 3,055 hospitals · six HRRP conditions · transparent data-quality and model limitations  
+**Tools:** Python · Pandas · Scikit-learn · JavaScript · Healthcare BI
 
-### 🏥 [Hospital Readmissions Healthcare Analytics](https://github.com/natheerne-hub/Hospital-Readmissions-Healthcare-Analytics)
+### [Heart Disease Analysis & Risk Modeling](https://github.com/natheerne-hub/Heart-Disease-Exploratory-Data-Analysis)
 
-Analysis of **18,330 hospital-condition records**, covering **3,055 hospitals**, **51 states/territories**, and **6 HRRP clinical conditions**.
+Executed exploratory analysis and leakage-aware baseline modeling with train-only preprocessing, stratified evaluation, cross-validation, and clinically cautious interpretation.
 
-**Highlights:** Readmission performance · Excess Readmission Ratio · State and hospital comparisons · Power BI preparation  
-**Tools:** `Python` · `Pandas` · `Matplotlib` · `Power BI`
+**Tools:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn
 
-### 🩸 [Diabetes Medical Data Analysis](https://github.com/natheerne-hub/medical-data-for-diabetes)
+### [Diabetes Medical Data Analysis](https://github.com/natheerne-hub/medical-data-for-diabetes)
 
-Reproducible healthcare EDA and statistical analysis with clinically informed missing-data handling, effect sizes, multiple-testing correction, and automated notebook verification.
+Exploratory and statistical analysis with clinically informed missing-data handling, effect sizes, multiple-testing correction, and reproducibility checks.
 
-**Tools:** `Python` · `Pandas` · `Seaborn` · `SciPy` · `GitHub Actions`
+**Tools:** Python · Pandas · SciPy · Seaborn · GitHub Actions
 
-### 🫀 [Heart Disease Exploratory Data Analysis](https://github.com/natheerne-hub/Heart-Disease-Exploratory-Data-Analysis)
+### [FHIR Clinical Data Pipeline](https://github.com/natheerne-hub/fhir-clinical-data-pipeline)
 
-Cardiovascular data analysis covering preprocessing, visualization, clinical interpretation, and baseline predictive-modeling concepts.
+Synthetic healthcare interoperability project demonstrating core FHIR resources, an HL7 v2-to-FHIR mapping, and standardized terminology examples.
 
-**Tools:** `Python` · `Scikit-learn` · `Matplotlib` · `Seaborn`
+**Standards:** FHIR · HL7 v2 · ICD-10-CM · LOINC · UCUM
 
-### 🧠 [Stroke Prediction Model](https://github.com/natheerne-hub/stroke-prediction-model)
+### [Stroke Prediction Model — Artifact Audit](https://github.com/natheerne-hub/stroke-prediction-model)
 
-Healthcare machine-learning project demonstrating preprocessing, class-imbalance handling with SMOTE, Gradient Boosting, and model persistence.
+Transparent portfolio artifact documenting what can—and cannot—be validated while the original training data and complete training workflow are unavailable. No performance claims are made.
 
-**Tools:** `Python` · `Scikit-learn` · `SMOTE` · `Gradient Boosting`
+## Responsible Analytics
 
----
+- Portfolio projects are educational and research demonstrations, not medical devices.
+- Predictive results require external validation, calibration, subgroup assessment, and clinical governance before real-world use.
+- Dataset provenance, licensing, missingness, and unit of analysis are treated as part of the analysis—not as footnotes.
 
-## 🎯 Career Direction
+## Profiles
 
-I am building toward roles in **Healthcare Data Analytics, Clinical Data Analytics, Healthcare BI, Clinical Research Analytics, and Healthcare Data Science**.
+- [Healthcare Data Portfolio](https://natheerne-hub.github.io/natheersoliman.github.io/)
+- [Kaggle](https://www.kaggle.com/nateer)
+- [LinkedIn](https://www.linkedin.com/in/nather-suliaman-64866342a/)
 
-My goal is to use my medical background and data skills to solve real healthcare problems and communicate findings clearly to clinical, operational, and business teams.
+## Contact
 
----
-
-## 🌐 Portfolio & Professional Profiles
-
-🌐 **[Healthcare Data Portfolio](https://natheerne-hub.github.io/natheersoliman.github.io/)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/nather-suliaman-64866342a/)**
+- Email: natheer.ne@gmail.com
+- Location: Libya
+- Open to healthcare analytics opportunities, research collaboration, and international projects
 
 ---
 
-## 📫 Contact
-
-📧 **natheer.ne@gmail.com**  
-💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/nather-suliaman-64866342a/)**
-
----
-
-### 🩺 Medicine × 📊 Data × 🤖 AI
-
-**Understand the clinical problem → Analyze the data → Communicate the insight → Build a better healthcare solution.**
+**Current direction:** Healthcare Data Analytics · Clinical Analytics · Health Informatics · Public Health Data · Medical AI
