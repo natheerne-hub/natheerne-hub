@@ -29,7 +29,12 @@ My portfolio focuses on hospital quality, clinical data analysis, interoperabili
 - **Deliverable:** executed notebook with exported analytical figures
 
 ### 🔄 [FHIR Clinical Data Pipeline](https://github.com/natheerne-hub/fhir-clinical-data-pipeline)
-Synthetic clinical interoperability project using **FHIR, HL7 v2, ICD-10-CM, LOINC, and UCUM**. Includes Patient, Condition, Observation, MedicationRequest, Encounter and Bundle resources plus an HL7-to-FHIR mapping example. All patient data are synthetic.
+**Problem:** Bridge interoperable clinical resources and analytics-ready data while preserving clinical meaning.
+
+- **Standards:** FHIR · HL7 v2 · ICD-10-CM · LOINC · UCUM
+- **Workflow:** synthetic FHIR resources → Python validation → terminology/reference checks → analytics-ready CSV + JSON validation report
+- **Resources:** Patient · Condition · Observation · MedicationRequest · Encounter · Bundle
+- **Privacy:** fully synthetic patient scenario; no PHI
 
 ## Additional Portfolio Work
 
