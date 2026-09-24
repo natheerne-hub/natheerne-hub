@@ -1,4 +1,4 @@
-# Dr. Natheer Soliman, MD
+# Dr. Nather Yunis Suliaman, MD
 
 ### Healthcare Data Analyst | Clinical Analytics | Health Informatics
 
